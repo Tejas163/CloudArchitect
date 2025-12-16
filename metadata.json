@@ -1,0 +1,5 @@
+{
+  "name": "CloudArchitect AI",
+  "description": "Generate comprehensive cloud solution architectures for AWS and GCP with focus on networking, security, and reliability.",
+  "requestFramePermissions": []
+}
